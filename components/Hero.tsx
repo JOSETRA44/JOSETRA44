@@ -36,9 +36,9 @@ export default function Hero() {
           </motion.p>
 
           <motion.h1 variants={item} className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight leading-none mb-4">
-            José
+            José Gabriel
             <br />
-            <span className="text-gradient">Huanaco</span>
+            <span className="text-gradient">Huanaco Muñoz</span>
           </motion.h1>
 
           <motion.div variants={item} className="flex items-center gap-3 mb-6">
