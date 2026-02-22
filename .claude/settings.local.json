@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /c/Users/USER/source/PAGINAS-WEB/JOSETRA44 && gh run list --limit 5 2>&1)"
+    ]
+  }
+}
