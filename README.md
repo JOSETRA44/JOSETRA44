@@ -8,8 +8,11 @@
   <a href="https://codepen.io/JOSETRA44" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
-  <a href="ko-fi.com/josetra44" target="_blank">
+  <a href="https://ko-fi.com/josetra44" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+  </a>
+  <a href="https://josetra44.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=2ea44f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
   </a>
 </div>
 
