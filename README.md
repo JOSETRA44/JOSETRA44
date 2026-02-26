@@ -18,12 +18,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JOSETRA44/JOSETRA44/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://media.tenor.com/K8SOeMMSNJYAAAAM/bobi-gif.gif"  />
 </div>
