@@ -1,4 +1,4 @@
-<h2 align="left">JOSETRA44 - José Gabriel Huanaco Muñoz</h2>
+<h2 align="left">JOSETRA44 - José Gabriel HM</h2>
 
 ###
 
