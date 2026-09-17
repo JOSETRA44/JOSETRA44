@@ -25,4 +25,4 @@
 </div>
 
 ###
-<h2 align="left">que pasó gente. :) </h2>
+<h3 align="left">que pasó gente. :) </h3>
